@@ -4,6 +4,6 @@ The program implements sorting algorithms and allows the creation of a transpare
 
 ## Charts
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/different-algorithms-and-data-structures/blob/main/sorting_algorithms/sorting-algorithms.png)
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/different-algorithms-and-data-structures/blob/main/sorting_algorithms/merge-quick.png)

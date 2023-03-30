@@ -5,8 +5,8 @@ The program implements an AVL tree and Binary search tree and allows the creatio
 
 ## Charts
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/different-algorithms-and-data-structures/blob/main/avl_bs_tree/plot-create.png)
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/different-algorithms-and-data-structures/blob/main/avl_bs_tree/plot-delete.png)
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/different-algorithms-and-data-structures/blob/main/avl_bs_tree/plot-search.png)

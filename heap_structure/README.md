@@ -4,6 +4,6 @@ The program implements a heap data structure and allows the creation of a transp
 
 ## Charts
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/different-algorithms-and-data-structures/blob/main/heap_structure/create.png)
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/different-algorithms-and-data-structures/blob/main/heap_structure/delete.png)

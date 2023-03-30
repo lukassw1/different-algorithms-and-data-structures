@@ -5,4 +5,4 @@ The program implements string-searching algorithms and allows the creation of a 
 
 ## Charts
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/different-algorithms-and-data-structures/blob/main/string_searching_algorithms/plot1.png)
